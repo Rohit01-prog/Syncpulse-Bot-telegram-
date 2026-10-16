@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@next/swc-wasm-nodejs": "^16.4.2"
+  }
+}

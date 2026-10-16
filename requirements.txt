@@ -1,0 +1,15 @@
+# Web Application Framework
+flask>=3.0.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0
+
+# HTTP Requests Utility
+requests>=2.31.0
+
+# Telegram Bot API Client
+pyTelegramBotAPI>=4.15.0
+
+# AI Provider Clients (Optional - fallbacks supported if not installed)
+openai>=1.12.0
+google-genai>=0.1.0

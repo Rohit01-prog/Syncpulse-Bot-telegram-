@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+*/node_modules/
+package-lock.json.bak
+
+# Next.js Build Output
+.next/
+*/.next/
+out/
+build/
+dist/
+
+# Python
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env.local
+.env.*.local
+*.log
+
+# IDE & OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# TypeScript cache
+*.tsbuildinfo
